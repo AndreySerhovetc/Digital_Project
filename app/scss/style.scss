@@ -1,0 +1,12 @@
+@import "mixin";
+@import "fonts";
+body {
+    box-sizing: border-box;
+    font-family: "TTHoves", Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "TTHoves";
+    font-weight: 300;
+    font-size: 25px;
+}
